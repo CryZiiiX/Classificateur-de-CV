@@ -1,0 +1,53 @@
+jean michel 
+ email : jean.michel@email.com 
+ téléphone : +33 6 12 34 56 78 
+ 
+ 06 12 34 56 78 
+ linkedin : linkedin.com/in/jeanmichel 
+ github : github.com/jeanmichel 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+  expérience professionnel 
+ -------------------------------------------------- 
+  dater scientist - techcorp , paris ( 2022 - présent ) 
+ - développement modèle machine learning prédiction vente . 
+ - analyse donnée client optimiser campagne marketing . 
+ - déploiement algorithme recommandation plateforme e-commerc . 
+  data analyst - financex , lyon ( 2020 - 2022 ) 
+ - nettoyage transformation base donnée volumineuser . 
+ - visualisation donnée création tableau bord interactif ( tableau , power bi ) . 
+ - automatisation rapport financier python sql . 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+  formation 
+ -------------------------------------------------- 
+  master data science - université paris ( 2018 - 2020 ) 
+  licence informatique - université lyon ( 2015 - 2018 ) 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+  compétences technique 
+ -------------------------------------------------- 
+  langages : python ( panda , numpy , scikit - learn ) , sql , r 
+  machine learning : régressions , svm , réseau neurone ( tensorflow , pytorch ) 
+  big data : hadoop , spark , aws , gcp 
+  visualisation : matplotlib , seaborn , tableau , power bi 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+  certification 
+ -------------------------------------------------- 
+  google professional data engineer ( 2023 ) 
+  machine learning specialization - coursera ( 2022 ) 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+  langues 
+ -------------------------------------------------- 
+  français : langue maternel 
+  anglais : courant 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+  projet personnels 
+ -------------------------------------------------- 
+ - détection fraude bancaire modèle classification . 
+ - analyse sentiment réseau social ( twitter , reddit ) . 
+ - optimisation chaîne logistique modèle prédictif . 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+  intérêt 
+ -------------------------------------------------- 
+  data science intelligence artificielle 
+  conférence moocs machine learning 
+  développement modèle ia jeu vidéo 
+  open source contribution github 

@@ -1,0 +1,3 @@
+#!/bin/bash
+python3 /var/lib/cv-classifier/GUI_CV_Classifier.py
+

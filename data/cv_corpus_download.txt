@@ -1,0 +1,82 @@
+
+# Développement Web
+Développement en JavaScript, React, Node.js, Redux, Express.js|Développement Web
+Conception d'API REST avec Flask, Django, FastAPI|Développement Web
+Développement front-end avec HTML5, CSS3, Vue.js, SASS|Développement Web
+Création d'applications mobiles avec React Native, Expo, Redux|Développement Web
+Développement de sites web responsives avec Bootstrap, Tailwind CSS|Développement Web
+Mise en œuvre de Progressive Web Apps (PWA), Service Workers|Développement Web
+Optimisation de la performance web avec Webpack, Babel, Lighthouse|Développement Web
+
+# DevOps
+Déploiement d'infrastructures cloud avec Terraform, Ansible, Docker|DevOps
+Automatisation CI/CD avec Jenkins, GitLab CI, Docker, Kubernetes|DevOps
+Monitoring avec Prometheus, Grafana, ELK stack, Datadog|DevOps
+Gestion de containers avec Kubernetes, Docker Swarm|DevOps
+Configuration de systèmes de logging avec ELK stack, Fluentd|DevOps
+Orchestration de services cloud avec AWS, Azure, GCP, CloudFormation|DevOps
+Gestion de secrets et clés avec HashiCorp Vault, AWS KMS|DevOps
+
+# Cybersécurité
+Pentesting et audit de sécurité réseau avec Kali Linux, Metasploit|Cybersécurité
+Configuration et gestion de firewall avec pfSense, iptables|Cybersécurité
+Détection d'intrusions avec SIEM (Splunk, ELK), OSINT, Kali|Cybersécurité
+Gestion des vulnérabilités et patching avec Nessus, OpenVAS|Cybersécurité
+Analyse des risques et conformité RGPD, SOC 2|Cybersécurité
+Cryptographie avancée et sécurité des communications avec OpenSSL|Cybersécurité
+Gestion des identités et accès avec LDAP, Active Directory, OAuth2|Cybersécurité
+
+# Data Science
+Analyse de données avec Pandas, NumPy, Scikit-Learn|Data Science
+Modélisation avec TensorFlow, PyTorch, XGBoost|Data Science
+Traitement du langage naturel avec spaCy, NLTK, BERT|Data Science
+Analyse prédictive avec machine learning, régression, classification|Data Science
+Analyse des données avec R, SQL, Tableau|Data Science
+Machine Learning supervisé et non supervisé, Random Forest, KMeans|Data Science
+Vision par ordinateur avec OpenCV, Keras, YOLO|Data Science
+
+# Intelligence Artificielle
+Développement de modèles de reconnaissance d'images avec CNN, ResNet|Intelligence Artificielle
+Conception d'agents intelligents avec reinforcement learning, OpenAI Gym|Intelligence Artificielle
+Utilisation de modèles de langage pré-entraînés comme GPT, BERT, T5|Intelligence Artificielle
+Optimisation des algorithmes d'IA pour la vision par ordinateur avec TensorFlow|Intelligence Artificielle
+Création de chatbots intelligents avec Dialogflow, Rasa, BotPress|Intelligence Artificielle
+Amélioration des systèmes de recommandation avec collaborative filtering, matrix factorization|Intelligence Artificielle
+
+# Gestion de Projet
+Gestion de projet Agile avec Scrum, Kanban, Jira, Trello|Gestion de Projet
+Planification de projets informatiques avec MS Project, Asana|Gestion de Projet
+Suivi des indicateurs de performance (KPI) et reporting avec Power BI|Gestion de Projet
+Coordination d'équipes de développement et tests, méthodes Agile|Gestion de Projet
+Mise en place de méthodologies Agile à l'échelle de l'entreprise, SAFe|Gestion de Projet
+Gestion des risques et des délais dans des projets complexes, gestion des parties prenantes|Gestion de Projet
+
+# Administration Système
+Administration de serveurs Linux (Ubuntu, CentOS) et Windows Server|Administration Système
+Gestion de bases de données MySQL, PostgreSQL, MongoDB|Administration Système
+Installation et gestion de systèmes de virtualisation avec VMware, VirtualBox|Administration Système
+Configuration et gestion de réseaux privés, VPN avec OpenVPN, WireGuard|Administration Système
+Gestion des systèmes de fichiers distribués avec NFS, Samba, Ceph|Administration Système
+Automatisation des tâches administratives avec scripts Bash, Python, Ansible|Administration Système
+
+# Réseaux
+Configuration et gestion de réseaux LAN, WAN, MPLS|Réseaux
+Mise en place de systèmes de sécurité réseau (VPN, IDS, IPS)|Réseaux
+Optimisation des performances réseau avec QoS, VLAN, MPLS|Réseaux
+Implémentation de solutions de load balancing avec HAProxy, Nginx|Réseaux
+Configuration de routeurs et switches Cisco, Juniper, Huawei|Réseaux
+Analyse du trafic réseau et détection d'anomalies avec Wireshark, tcpdump|Réseaux
+
+# Testing et QA
+Test de performance et charge avec JMeter, LoadRunner, Gatling|Testing et QA
+Automatisation des tests avec Selenium, TestNG, Cucumber|Testing et QA
+Tests unitaires avec JUnit, PyTest, Mocha|Testing et QA
+Rédaction de plans de test et validation fonctionnelle avec TestRail|Testing et QA
+Tests de sécurité et audits de code avec OWASP ZAP, Burp Suite|Testing et QA
+
+# Blockchain
+Développement de contrats intelligents avec Solidity, Ethereum|Blockchain
+Création de dApps (applications décentralisées) avec React, Web3.js|Blockchain
+Gestion des transactions blockchain et des solutions de scalabilité avec Ethereum, Layer-2|Blockchain
+Sécurisation des transactions sur la blockchain avec cryptographie, multi-signatures|Blockchain
+Développement de portefeuilles cryptographiques avec MetaMask, Ledger|Blockchain

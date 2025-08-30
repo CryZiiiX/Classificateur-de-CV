@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=CV Classifier
+Exec=cv-classifier
+Icon=/var/lib/cv-classifier/icon.png
+Type=Application
+Categories=Utility;Education;
+Comment=Application d'analyse et de classification de CV
+Terminal=false

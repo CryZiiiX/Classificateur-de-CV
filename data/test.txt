@@ -1,0 +1,26 @@
+J'ai     O
+été      O
+administrateur B-EXPERIENCE
+système  I-EXPERIENCE
+chez     O
+IBM      B-ORG
+durant   O
+5        B-DUREE
+ans      I-DUREE
+en 	 O
+utilisant B-COMPETENCE
+Linux I-COMPETENCE
+et       O
+Ansible I-COMPETENCE
+.        O
+
+-    O
+Déploiement B-COMPETENCE
+d'algorithmes I-COMPETENCE
+de    O
+recommandation I-COMPETENCE
+sur    O
+des    O
+plateformes I-COMPETENCE
+e-commerce I-COMPETENCE
+.    O
