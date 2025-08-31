@@ -1,0 +1,6 @@
+CV 6 - Cloud Computing Nom : Marc Dufresne
+Email : marc.dufresne@example.com
+Téléphone : 06 54 32 10 98
+Expérience : 4 ans en architecture cloud
+Compétences : AWS, Azure, Google Cloud, Serverless, Cloud Security
+Localisation : Lille, France

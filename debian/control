@@ -1,0 +1,14 @@
+Source: cv-classifier
+Section: utils
+Priority: optional
+Maintainer: Maxime Bronny <maxbronny@gmail.com>
+Build-Depends: debhelper (>= 10), dh-python, python3-all
+Standards-Version: 4.5.0
+Rules-Requires-Root: no
+
+Package: cv-classifier
+Architecture: all
+Depends: ${misc:Depends}, python3, python3-pip
+Description: Outil de classification de CV intelligent avec interface PyQt6
+ Ce paquet installe un logiciel open source capable d'analyser et classer des CV automatiquement.
+ Toutes les dépendances Python sont gérées via pip dans un script intégré.

@@ -1,0 +1,20 @@
+cv-classifier                         usr/bin/
+cv-classifier.desktop                 usr/share/applications/
+
+GUI_CV_Classifier.py                  /var/lib/cv-classifier/
+main.py                               /var/lib/cv-classifier/
+BDD_CV_Corpus.py                      /var/lib/cv-classifier/
+BDD_Flair.py                          /var/lib/cv-classifier/
+check_files.py                        /var/lib/cv-classifier/
+Flair_Experiences_Compétences.py      /var/lib/cv-classifier/
+scraper_FT_competences_poste.py       /var/lib/cv-classifier/
+Segmentation_cv_json_csv.py           /var/lib/cv-classifier/
+Sklearn_cv_classifier.py              /var/lib/cv-classifier/
+requirements.txt                      /var/lib/cv-classifier/
+icon.png                              /var/lib/cv-classifier/
+Makefile                              /var/lib/cv-classifier/
+
+CV_A_TRAITER                          /var/lib/cv-classifier/
+output_text                           /var/lib/cv-classifier/
+ATS_Classement                        /var/lib/cv-classifier/
+data                                  /var/lib/cv-classifier/

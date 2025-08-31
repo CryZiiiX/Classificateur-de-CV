@@ -1,0 +1,109 @@
+Section,Type,Contenu
+
+Identité,Noms,['Jean Michel Email']
+Identité,Emails,['jean.michel@email.com']
+Identité,Téléphone,"['06 12 34 56 78', '+33 6 12 34 56 78']"
+
+Formations,   -   ,Master Data Science
+Formations,   -   ,Licence Informatique
+
+Compétences,   -   ,numpy
+Compétences,   -   ,d'algorithmes
+Compétences,   -   ,matplotlib
+Compétences,   -   ,e-commerce
+Compétences,   -   ,nettoyage
+Compétences,   -   ,développement
+Compétences,   -   ,logistique
+Compétences,   -   ,Configurer des réseaux
+Compétences,   -   ,Pentesting
+Compétences,   -   ,Protéger des données à caractère personnel et la vie privée
+Compétences,   -   ,tableaux
+Compétences,   -   ,interactifs
+Compétences,   -   ,github
+Compétences,   -   ,artificielle
+Compétences,   -   ,Utiliser des outils de business intelligence
+Compétences,   -   ,création
+Compétences,   -   ,neurones
+Compétences,   -   ,Utiliser des langages de programmation
+Compétences,   -   ,expérience professionnelle
+Compétences,   -   ,sentiments
+Compétences,   -   ,bord
+Compétences,   -   ,jean.michel
+Compétences,   -   ,analyse
+Compétences,   -   ,prédiction
+Compétences,   -   ,déploiement
+Compétences,   -   ,langue
+Compétences,   -   ,sql
+Compétences,   -   ,email
+Compétences,   -   ,anglais
+Compétences,   -   ,détection
+Compétences,   -   ,Python
+Compétences,   -   ,twitter
+Compétences,   -   ,sociaux
+Compétences,   -   ,big
+Compétences,   -   ,chaîne
+Compétences,   -   ,seaborn
+Compétences,   -   ,Administrer des bases de données
+Compétences,   -   ,data analyst
+Compétences,   -   ,classification
+Compétences,   -   ,projets
+Compétences,   -   ,certifications
+Compétences,   -   ,science
+Compétences,   -   ,automatisation
+Compétences,   -   ,clients
+Compétences,   -   ,téléphone
+Compétences,   -   ,maternelle
+Compétences,   -   ,optimisation
+Compétences,   -   ,formation
+Compétences,   -   ,tableau
+Compétences,   -   ,modèles
+Compétences,   -   ,source
+Compétences,   -   ,Deep Learning
+Compétences,   -   ,fraudes
+Compétences,   -   ,campagnes
+Compétences,   -   ,ventes
+Compétences,   -   ,bancaires
+Compétences,   -   ,spark
+Compétences,   -   ,conférences
+Compétences,   -   ,transformation
+Compétences,   -   ,open
+Compétences,   -   ,financiers
+Compétences,   -   ,intérêts
+Compétences,   -   ,prédictifs
+Compétences,   -   ,Pandas
+Compétences,   -   ,techniques
+Compétences,   -   ,hadoop
+Compétences,   -   ,vidéo
+Compétences,   -   ,optimiser
+Compétences,   -   ,plateformes
+Compétences,   -   ,recommandation
+Compétences,   -   ,moocs
+Compétences,   -   ,jeux
+Compétences,   -   ,power
+Compétences,   -   ,data scientist
+Compétences,   -   ,rapports
+Compétences,   -   ,ia
+Compétences,   -   ,marketing
+Compétences,   -   ,svm
+Compétences,   -   ,gcp
+Compétences,   -   ,visualisation
+Compétences,   -   ,machine
+Compétences,   -   ,compétences
+Compétences,   -   ,contributions
+Compétences,   -   ,aws
+Compétences,   -   ,volumineuses
+Compétences,   -   ,régressions
+
+Expériences,   -   ,Jean
+Expériences,   -   ,Michel
+Expériences,   -   ,Master Data Science
+Expériences,   -   ,Licence Informatique
+Expériences,   -   ,Google Professional Data Engineer
+Expériences,   -   ,Machine Learning Specialization
+
+Langues,   -   ,"{'Langue': 'Français', 'Niveau': 'Langue maternelle'}"
+Langues,   -   ,"{'Langue': 'Anglais', 'Niveau': 'Courant'}"
+
+Localisation,   -   ,paris
+
+Probabilité,   -   ,0.46326590195427964

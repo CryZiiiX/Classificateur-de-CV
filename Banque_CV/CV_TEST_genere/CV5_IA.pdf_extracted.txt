@@ -1,0 +1,6 @@
+CV 5 - Intelligence Artificielle Nom : Sophie Lambert
+Email : sophie.lambert@example.com
+Téléphone : 07 88 99 00 11
+Expérience : 5 ans en recherche en IA
+Compétences : NLP, Computer Vision, Transformers, CamemBERT, GPT
+Localisation : Bordeaux, France

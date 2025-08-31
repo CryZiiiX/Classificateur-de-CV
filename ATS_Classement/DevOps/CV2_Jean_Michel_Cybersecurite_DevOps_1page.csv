@@ -1,0 +1,124 @@
+Section,Type,Contenu
+
+Identité,Noms,['Jean Michel Email']
+Identité,Emails,['jean.michel@email.com']
+Identité,Téléphone,['+33 6 12 34 56 78']
+
+Formations,   -   ,Master Cybersécurité
+Formations,   -   ,PROFESSIONNELLE Ingénieur Cybersécurité
+
+Compétences,   -   ,bash
+Compétences,   -   ,Terraform
+Compétences,   -   ,d'infrastructure
+Compétences,   -   ,cloudops
+Compétences,   -   ,devops
+Compétences,   -   ,segmentation
+Compétences,   -   ,réponse
+Compétences,   -   ,Configurer des réseaux
+Compétences,   -   ,Protéger des données à caractère personnel et la vie privée
+Compétences,   -   ,solutions
+Compétences,   -   ,systèmes
+Compétences,   -   ,sécurisé
+Compétences,   -   ,code
+Compétences,   -   ,github
+Compétences,   -   ,pare-feu
+Compétences,   -   ,server
+Compétences,   -   ,michel
+Compétences,   -   ,Ansible
+Compétences,   -   ,licence
+Compétences,   -   ,création
+Compétences,   -   ,linux
+Compétences,   -   ,Utiliser des langages de programmation
+Compétences,   -   ,cloud
+Compétences,   -   ,azure
+Compétences,   -   ,gitlab
+Compétences,   -   ,Effectuer des tests d'intrusion
+Compétences,   -   ,scanner
+Compétences,   -   ,linkedin
+Compétences,   -   ,expérience
+Compétences,   -   ,analyse
+Compétences,   -   ,offensive
+Compétences,   -   ,déploiement
+Compétences,   -   ,professionnel
+Compétences,   -   ,stack
+Compétences,   -   ,langue
+Compétences,   -   ,email
+Compétences,   -   ,jenkins
+Compétences,   -   ,anglais
+Compétences,   -   ,réelles
+Compétences,   -   ,renforcement
+Compétences,   -   ,détection
+Compétences,   -   ,Python
+Compétences,   -   ,fail2ban
+Compétences,   -   ,défensive
+Compétences,   -   ,sécurisée
+Compétences,   -   ,automatisé
+Compétences,   -   ,yaml
+Compétences,   -   ,engineer
+Compétences,   -   ,français
+Compétences,   -   ,debian
+Compétences,   -   ,web
+Compétences,   -   ,microsoft
+Compétences,   -   ,honeypot
+Compétences,   -   ,grafana
+Compétences,   -   ,vault
+Compétences,   -   ,tentatives
+Compétences,   -   ,forensique
+Compétences,   -   ,infrastructure
+Compétences,   -   ,nmap
+Compétences,   -   ,security engineer associate
+Compétences,   -   ,projets
+Compétences,   -   ,capter
+Compétences,   -   ,certifications
+Compétences,   -   ,elk
+Compétences,   -   ,automatisation
+Compétences,   -   ,déploiements
+Compétences,   -   ,metasploit
+Compétences,   -   ,téléphone
+Compétences,   -   ,prometheus
+Compétences,   -   ,maternelle
+Compétences,   -   ,participation
+Compétences,   -   ,place
+Compétences,   -   ,formation
+Compétences,   -   ,source
+Compétences,   -   ,Gérer des incidents de sécurité
+Compétences,   -   ,réseautage
+Compétences,   -   ,langues
+Compétences,   -   ,open
+Compétences,   -   ,wireshark
+Compétences,   -   ,d'incidents
+Compétences,   -   ,Docker
+Compétences,   -   ,go
+Compétences,   -   ,veille
+Compétences,   -   ,intérêts
+Compétences,   -   ,jeanmichel
+Compétences,   -   ,Pandas
+Compétences,   -   ,techniques
+Compétences,   -   ,Scikit-Learn
+Compétences,   -   ,cybersécurité
+Compétences,   -   ,site
+Compétences,   -   ,environnements
+Compétences,   -   ,Mettre en œuvre des politiques de sécurité
+Compétences,   -   ,windows
+Compétences,   -   ,vlan
+Compétences,   -   ,ubuntu
+Compétences,   -   ,gestion
+Compétences,   -   ,technologique
+Compétences,   -   ,surveillance
+Compétences,   -   ,compétences
+Compétences,   -   ,aws
+Compétences,   -   ,snort
+Compétences,   -   ,vulnérabilités
+
+Expériences,   -   ,Jean
+Expériences,   -   ,PROFESSIONNELLE Ingénieur Cybersécurité
+Expériences,   -   ,Master Cybersécurité
+Expériences,   -   ,Informatique
+Expériences,   -   ,Certified Ethical Hacker
+
+Langues,   -   ,"{'Langue': 'Français', 'Niveau': 'Langue maternelle'}"
+
+Localisation,   -   ,lyon
+Localisation,   -   ,paris
+
+Probabilité,   -   ,0.9999965087933521

@@ -1,0 +1,6 @@
+CV 3 - DevOps Engineer Nom : Pierre Lefebvre
+Email : pierre.lefebvre@example.com
+Téléphone : 06 98 76 54 32
+Expérience : 4 ans en administration système et cloud
+Compétences : Docker, Kubernetes, CI/CD, Ansible, Terraform
+Localisation : Marseille, France

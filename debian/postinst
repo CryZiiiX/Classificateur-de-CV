@@ -1,0 +1,27 @@
+#!/bin/bash
+set -e
+echo "Post-installation : installation des fichiers au minimum requis..."
+pip install --upgrade pip
+pip install -r /var/lib/cv-classifier/requirements.txt
+echo "requirements.txt l'installation s'est bien passée :) "
+
+
+echo "Post-installation : installation de la police Poppins..."
+
+FONT_DIR="$HOME/.fonts/Poppins"
+mkdir -p "$FONT_DIR"
+
+wget -q https://github.com/google/fonts/raw/main/ofl/poppins/Poppins-Regular.ttf -O "$FONT_DIR/Poppins-Regular.ttf"
+wget -q https://github.com/google/fonts/raw/main/ofl/poppins/Poppins-Bold.ttf -O "$FONT_DIR/Poppins-Bold.ttf"
+wget -q https://github.com/google/fonts/raw/main/ofl/poppins/Poppins-Italic.ttf -O "$FONT_DIR/Poppins-Italic.ttf"
+wget -q https://github.com/google/fonts/raw/main/ofl/poppins/Poppins-BoldItalic.ttf -O "$FONT_DIR/Poppins-BoldItalic.ttf"
+
+fc-cache -fv "$FONT_DIR" || echo "Impossible de mettre à jour le cache de police."
+
+echo "Police Poppins installée."
+
+
+chmod -R 777 /var/lib/cv-classifier
+
+
+#DEBHELPER#

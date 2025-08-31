@@ -1,0 +1,6 @@
+CV 1 - Développeur Web Nom : Jean Dupont
+Email : jean.dupont@example.com
+Téléphone : 06 12 34 56 78
+Expérience : 5 ans en développement web
+Compétences : HTML, CSS, JavaScript, React, Node.js, PHP
+Localisation : Paris, France

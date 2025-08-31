@@ -1,0 +1,6 @@
+CV 2 - Data Scientist Nom : Alice Martin
+Email : alice.martin@example.com
+Téléphone : 07 22 33 44 55
+Expérience : 3 ans en analyse de données
+Compétences : Python, Pandas, Scikit-Learn, TensorFlow, Machine Learning
+Localisation : Lyon, France

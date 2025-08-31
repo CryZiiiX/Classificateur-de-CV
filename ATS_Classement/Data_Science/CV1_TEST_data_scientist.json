@@ -1,0 +1,128 @@
+{
+    "Identité": {
+        "Noms": [
+            "Jean Michel Email"
+        ],
+        "Emails": [
+            "jean.michel@email.com"
+        ],
+        "Téléphone": [
+            "06 12 34 56 78",
+            "+33 6 12 34 56 78"
+        ]
+    },
+    "Formations": [
+        "Master Data Science",
+        "Licence Informatique"
+    ],
+    "Compétences": [
+        "numpy",
+        "d'algorithmes",
+        "matplotlib",
+        "e-commerce",
+        "nettoyage",
+        "développement",
+        "logistique",
+        "Configurer des réseaux",
+        "Pentesting",
+        "Protéger des données à caractère personnel et la vie privée",
+        "tableaux",
+        "interactifs",
+        "github",
+        "artificielle",
+        "Utiliser des outils de business intelligence",
+        "création",
+        "neurones",
+        "Utiliser des langages de programmation",
+        "expérience professionnelle",
+        "sentiments",
+        "bord",
+        "jean.michel",
+        "analyse",
+        "prédiction",
+        "déploiement",
+        "langue",
+        "sql",
+        "email",
+        "anglais",
+        "détection",
+        "Python",
+        "twitter",
+        "sociaux",
+        "big",
+        "chaîne",
+        "seaborn",
+        "Administrer des bases de données",
+        "data analyst",
+        "classification",
+        "projets",
+        "certifications",
+        "science",
+        "automatisation",
+        "clients",
+        "téléphone",
+        "maternelle",
+        "optimisation",
+        "formation",
+        "tableau",
+        "modèles",
+        "source",
+        "Deep Learning",
+        "fraudes",
+        "campagnes",
+        "ventes",
+        "bancaires",
+        "spark",
+        "conférences",
+        "transformation",
+        "open",
+        "financiers",
+        "intérêts",
+        "prédictifs",
+        "Pandas",
+        "techniques",
+        "hadoop",
+        "vidéo",
+        "optimiser",
+        "plateformes",
+        "recommandation",
+        "moocs",
+        "jeux",
+        "power",
+        "data scientist",
+        "rapports",
+        "ia",
+        "marketing",
+        "svm",
+        "gcp",
+        "visualisation",
+        "machine",
+        "compétences",
+        "contributions",
+        "aws",
+        "volumineuses",
+        "régressions"
+    ],
+    "Expériences": [
+        "Jean",
+        "Michel",
+        "Master Data Science",
+        "Licence Informatique",
+        "Google Professional Data Engineer",
+        "Machine Learning Specialization"
+    ],
+    "Langues": [
+        {
+            "Langue": "Français",
+            "Niveau": "Langue maternelle"
+        },
+        {
+            "Langue": "Anglais",
+            "Niveau": "Courant"
+        }
+    ],
+    "Localisation": [
+        "paris"
+    ],
+    "Probabilité": 0.46326590195427964
+}
