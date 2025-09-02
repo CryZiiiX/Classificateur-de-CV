@@ -1,5 +1,8 @@
 # Classificateur de CV
 
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+
 ## Description
 
 Ce projet a été développé dans le cadre de la validation des matières "Fouille de données", "Ingénierie des langues", "Développement logiciel libre" et "IA & Apprentissage" du cursus L3 INFORMATIQUE IED.
