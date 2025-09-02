@@ -1,4 +1,5 @@
 # Classificateur de CV
+![Présentation du projet](./images/présentation classificateur CV.pdf)
 
 ![Python](https://img.shields.io/badge/python-3.8-blue)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
