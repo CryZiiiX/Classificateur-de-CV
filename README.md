@@ -1,6 +1,6 @@
 # Classificateur de CV
 
-![Python](https://img.shields.io/badge/python-3.10-blue)
+![Python](https://img.shields.io/badge/python-3.8-blue)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 
 ## Description
